@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **mongodb , java**
 
-- 💬 Ask me about **C,HTML**
+- 💬 Ask me about **C,HTML,JAVA,EXCEL**
 
 - 📫 How to reach me **vijayaraja101125@gmail.com**
 
