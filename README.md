@@ -1,44 +1,78 @@
-<h1 align="center">Hi 👋, I'm VIJAYA RAJA K M</h1>
-<h3 align="center">Entry-Level Data Analyst | Excel • SQL • Power BI</h3>
+````md id="p2h3l9"
+# VIJAYA RAJA K M
 
-- 📊 Focused on **data cleaning, analysis, and dashboard reporting**
-- 🌱 Currently improving skills in **SQL, Power BI, and advanced Excel**
-- 💬 Ask me about **Excel, SQL, Power BI, data analysis basics**
-- 📫 How to reach me: **vijayaraja101125@gmail.com**
+```python
+class VijayaRaja:
+    role = "Python Full Stack Developer"
+    location = "Tamil Nadu, India"
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://linkedin.com/in/vijayaraja24" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vijayaraja24" height="30" width="40" />
+    tech_stack = {
+        "backend": ["Python", "Flask", "REST APIs"],
+        "frontend": ["HTML", "CSS", "Bootstrap", "JavaScript"],
+        "database": ["SQLite", "MySQL"],
+        "tools": ["Git", "Postman", "VS Code"]
+    }
+
+    currently_learning = ["React", "Deployment", "Backend Optimization"]
+
+    interests = [
+        "Full Stack Development",
+        "Analytics Dashboards",
+        "Backend Systems",
+        "Problem Solving"
+    ]
+````
+
+---
+
+## Tech Stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,flask,js,html,css,bootstrap,mysql,git,github,vscode" />
+</p>
+
+---
+
+## Featured Projects
+
+### Skill Decay Tracker
+
+Full stack application to monitor skill retention, inactivity trends, and practice consistency using Flask and Chart.js.
+
+### Interview Failure Pattern Analyzer
+
+Analytics platform to track interview performance, identify weak skill areas, and visualize score trends.
+
+### Fake Productivity Detector
+
+Behavioral analytics project focused on productivity tracking, consistency analysis, and activity monitoring.
+
+---
+
+## Currently Working On
+
+* Improving backend architecture
+* Learning React for modern frontend development
+* Building stronger API-based projects
+* Deploying full stack applications
+
+---
+
+## Connect
+
+<p>
+  <a href="https://linkedin.com/in/vijayaraja24">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-  <a href="https://www.leetcode.com/024vs" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="024vs" height="30" width="40" />
+
+  <a href="https://github.com/vijaistark">
+    <img src="https://skillicons.dev/icons?i=github" />
   </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/color/48/microsoft-excel-2019.png" alt="excel" width="40" height="40"/>
-  </a>
-  <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/color/48/power-bi.png" alt="powerbi" width="40" height="40"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/color/48/mysql-logo.png" alt="sql" width="40" height="40"/>
-  </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-  </a>
-</p>
+---
 
-<h3 align="left">Projects:</h3>
+> “Consistency beats intensity.”
 
-- 📌 **Meta Ads Analytics – Power BI**  
-  Analyzed ad performance metrics such as impressions, clicks, CTR, CPC, and conversions. Built interactive dashboards using Power BI.
-
-- 📌 **Sales Dashboard – Power BI**  
-  Developed dashboards to track sales, profit trends, and regional performance using slicers and charts.
-
-- 📌 **Employee Data Analysis – SQL**  
-  Used SQL queries to analyze employee data and identify department-wise attrition trends.
+```
+```
