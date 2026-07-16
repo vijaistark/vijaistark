@@ -1,34 +1,39 @@
-````md id="p2h3l9"
 # VIJAYA RAJA K M
 
 ```python
 class VijayaRaja:
-    role = "Python Full Stack Developer"
+    role = "Python Backend Developer"
     location = "Tamil Nadu, India"
 
     tech_stack = {
-        "backend": ["Python", "Flask", "REST APIs"],
+        "backend": ["Python", "Django", "Django REST Framework", "REST APIs"],
         "frontend": ["HTML", "CSS", "Bootstrap", "JavaScript"],
-        "database": ["SQLite", "MySQL"],
-        "tools": ["Git", "Postman", "VS Code"]
+        "database": ["SQLite", "MySQL", "Django ORM"],
+        "tools": ["Git", "Docker", "Postman", "VS Code", "Render"]
     }
 
-    currently_learning = ["React", "Deployment", "Backend Optimization"]
+    currently_learning = [
+        "System Design",
+        "Docker",
+        "Backend Scalability",
+        "AI Engineering"
+    ]
 
     interests = [
-        "Full Stack Development",
+        "Backend Development",
+        "REST API Development",
         "Analytics Dashboards",
-        "Backend Systems",
+        "Software Engineering",
         "Problem Solving"
     ]
-````
+```
 
 ---
 
 ## Tech Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,flask,js,html,css,bootstrap,mysql,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,django,js,html,css,bootstrap,mysql,sqlite,docker,git,github,postman,vscode" />
 </p>
 
 ---
@@ -37,24 +42,24 @@ class VijayaRaja:
 
 ### Skill Decay Tracker
 
-Full stack application to monitor skill retention, inactivity trends, and practice consistency using Flask and Chart.js.
+Django-based analytics dashboard that monitors skill retention, learning inactivity, and practice consistency using Django REST Framework, Django ORM, SQLite, Bootstrap, and Chart.js.
 
 ### Interview Failure Pattern Analyzer
 
-Analytics platform to track interview performance, identify weak skill areas, and visualize score trends.
+Analytics platform built with Django to identify recurring interview weaknesses through interactive dashboards, REST APIs, and performance visualization.
 
 ### Fake Productivity Detector
 
-Behavioral analytics project focused on productivity tracking, consistency analysis, and activity monitoring.
+Backend-driven Django application that distinguishes genuine productivity from superficial activity using consistency metrics, analytics dashboards, and REST APIs.
 
 ---
 
 ## Currently Working On
 
-* Improving backend architecture
-* Learning React for modern frontend development
-* Building stronger API-based projects
-* Deploying full stack applications
+* Building scalable backend systems with Django
+* Strengthening Django REST Framework and API development
+* Improving system design and backend architecture
+* Expanding knowledge in AI Engineering and LLM applications
 
 ---
 
@@ -72,7 +77,4 @@ Behavioral analytics project focused on productivity tracking, consistency analy
 
 ---
 
-> “Consistency beats intensity.”
-
-```
-```
+> "Building products, not just following tutorials."
