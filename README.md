@@ -3,7 +3,7 @@
 ```python
 class VijayaRaja:
     role = "Python Backend Developer"
-    location = "Tamil Nadu, India"
+    location = "Chennai,Tamil Nadu, India"
 
     tech_stack = {
         "backend": ["Python", "Django", "Django REST Framework", "REST APIs"],
