@@ -9,7 +9,7 @@ class VijayaRaja:
         "backend": ["Python", "Django", "Django REST Framework", "REST APIs"],
         "frontend": ["HTML", "CSS", "Bootstrap", "JavaScript"],
         "database": ["SQLite", "MySQL", "Django ORM"],
-        "tools": ["Git", "Docker", "Postman", "VS Code", "Render"]
+        "tools": ["VS Code", "Render"]
     }
 
     currently_learning = [
