@@ -33,7 +33,7 @@ class VijayaRaja:
 ## Tech Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,django,js,html,css,bootstrap,mysql,sqlite,docker,git,github,postman,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,django,js,html,css,bootstrap,mysql,sqlite,git,github,vscode" />
 </p>
 
 ---
